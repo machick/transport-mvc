@@ -1,0 +1,27 @@
+{
+  "name": "vendor_name/tp-final-web",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Agustina",
+      "email": "email@example.com"
+    },
+    {
+      "name": "Carolina",
+      "email": "email@example.com"
+    },
+    {
+      "name": "Daniel",
+      "email": "xd_dany@me.com"
+    },
+    {
+      "name": "Jose",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "mustache/mustache": "2.*"
+  }
+}
